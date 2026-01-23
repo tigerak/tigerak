@@ -54,8 +54,16 @@
 
 ### ⚡ Recent Activity
 * 🧠 **ENGRAM**의 PPR 알고리즘 최적화 및 Neo4j GDS 연동 완료
-* 🚀 저사양 인프라(RTX 4090) 기반 **LLM Serving 가속화** 기술 공유
 * 📖 최신 NLP 논문(**HippoRAG**, **O-LoRA**) 기반의 Continual Learning 로드맵 설계
+---
+
+### 📫 Contact
+* **Email:** tigerakyb@gmail.com
+* **Protfolio:** 👉[포트폴리오 링크](https://www.notion.so/PORTFOLIO-e4a7b76219c34551b78466c81f73733d)
+
+<p align="center">
+  <i>"Optimizing AI Efficiency, Restoring Knowledge Connectivity."</i>
+</p>
 ---
 
 ### 📊 Engineering Stats
@@ -66,11 +74,3 @@
 </p>
 
 ---
-
-### 📫 Contact
-* **Email:** tigerakyb@gmail.com
-* **Protfolio:** 👉[포트폴리오 링크](https://www.notion.so/PORTFOLIO-e4a7b76219c34551b78466c81f73733d)
-
-<p align="center">
-  <i>"Optimizing AI Efficiency, Restoring Knowledge Connectivity."</i>
-</p>
