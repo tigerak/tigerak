@@ -60,8 +60,9 @@
 
 ### 📊 Engineering Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=tigerak&show_icons=true&theme=visionary-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=tigerak&layout=compact&theme=visionary-dark&hide=css,html,jupyter%20notebook" />
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=tigerak&show_icons=true&theme=visionary&include_all_commits=true&count_private=true&v=1" />
+  
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=tigerak&layout=compact&theme=visionary&hide=css,html,jupyter%20notebook&v=1" />
 </p>
 
 ---
