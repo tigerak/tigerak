@@ -68,8 +68,6 @@
 
 ### 📊 Engineering Stats
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tigerak&theme=visual_studio_dark" height="180em" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tigerak&theme=visual_studio_dark" height="180em" />
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=tigerak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 ---
