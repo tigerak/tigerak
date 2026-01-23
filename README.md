@@ -61,7 +61,7 @@
 ### 📊 Engineering Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tigerak&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tigerak&theme=visual_studio_dark" alt="langs" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=tigerak&layout=compact&theme=visionary-dark&hide=css,html" alt="langs" />
 </p>
 
 ---
