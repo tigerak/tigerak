@@ -5,11 +5,14 @@ on:
     - cron: '0 * * * *' # 매 시간마다 자동으로 업데이트
   workflow_dispatch: # 필요할 때 수동으로도 실행 가능
 
+permissions:
+  contents: write # 권한
+  
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
