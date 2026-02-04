@@ -53,9 +53,14 @@
 ---
 
 ### ⚡ Recent Activity
+
+---
+
+### 🚀 Key Projects & Research
 * 🧠 **EVENGRAM**의 PPR 알고리즘 최적화 및 Neo4j GDS 연동 완료
 * 📖 최신 NLP 논문(**HippoRAG**, **O-LoRA**) 기반의 Continual Learning 로드맵 설계
 * 📐 GraphRAG 성능 수치화 연구 진행: T-Shape 구조의 이론적 복잡도($O(1)$) 증명 및 기존 RAG 대비 데이터 중복 감소율, 맥락 유지력 등에 대한 정량적 검증 지표 설계 및 테스트 중.
+
 ---
 
 ### 📫 Contact
