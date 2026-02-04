@@ -30,11 +30,11 @@
 **Event-based Graph Retrieval And Memory**
 기존 RAG의 한계인 '맥락 붕괴'와 '기억 파편화'를 해결하기 위해 설계된 사건 중심(Event-Centric) 지식 그래프 아키텍처입니다.
 
-* **Event-Centric Topology: `(Entity)-[:SOURCE]->(Event)-[:TARGET]->(Entity)`의 T-Shape 구조를 도입하여 사실 관계와 출처(Provenance)를 물리적으로 보존하고 데이터 중복을 제거.
-* **Associative Retrieval: 단순 벡터 검색을 넘어, Time Decay와 **PPR(Personalized PageRank)**을 결합한 확률적 확산 알고리즘으로 구조적 깊이(Hop)를 극복하고 연관 기억을 인출.
-* **Dynamic Consolidation: Leiden 알고리즘 기반의 커뮤니티 부스팅을 통해, 오래된 기억이라도 현재 대화의 맥락(Topic)과 일치할 경우 가중치를 부여하여 회상(Recall).
-* **Hybrid Resolution: 벡터 유사도와 Fuzzy Matching을 결합한 실시간 이중 필터링으로 엔티티 무결성 확보.
-* **Engineering Optimization: No LangChain, No NumPy. Native Driver 직접 제어 및 Query Projection 최적화로 대규모 그래프 환경에서도 낮은 레이턴시 유지.
+* **Event-Centric Topology**: `(Entity)-[:SOURCE]->(Event)-[:TARGET]->(Entity)`의 T-Shape 구조를 도입하여 사실 관계와 출처(Provenance)를 물리적으로 보존하고 데이터 중복을 제거.
+* **Associative Retrieval**: 단순 벡터 검색을 넘어, Time Decay와 **PPR(Personalized PageRank)**을 결합한 확률적 확산 알고리즘으로 구조적 깊이(Hop)를 극복하고 연관 기억을 인출.
+* **Dynamic Consolidation**: Leiden 알고리즘 기반의 커뮤니티 부스팅을 통해, 오래된 기억이라도 현재 대화의 맥락(Topic)과 일치할 경우 가중치를 부여하여 회상(Recall).
+* **Hybrid Resolution**: 벡터 유사도와 Fuzzy Matching을 결합한 실시간 이중 필터링으로 엔티티 무결성 확보.
+* **Engineering Optimization**: No LangChain, No NumPy. Native Driver 직접 제어 및 Query Projection 최적화로 대규모 그래프 환경에서도 낮은 레이턴시 유지.
 
 👉 [ENGRAM 상세 기술 백서 및 연구 근거 (WHITEPAPER)](https://www.notion.so/EVENGRAM-Event-based-Graph-Retrieval-And-Memory-2ec7feb5040e80028309c7172cf1160c)
 
