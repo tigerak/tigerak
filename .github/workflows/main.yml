@@ -20,3 +20,4 @@ jobs:
         with:
           COMMIT_MSG: "Update recent activity"
           MAX_LINES: 5 # 보여줄 활동 개수
+          FILTER_EVENTS: "PushEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent"
