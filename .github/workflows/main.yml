@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *' # 매 시간마다 자동으로 업데이트
+    - cron: '0 0 * * *' # 매 시간마다 자동으로 업데이트
   workflow_dispatch: # 필요할 때 수동으로도 실행 가능
 
 permissions:
